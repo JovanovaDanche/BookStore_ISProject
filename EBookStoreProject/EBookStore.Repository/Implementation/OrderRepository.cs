@@ -23,7 +23,6 @@ namespace EBookStore.Repository.Implementation
              return entities
                  .Include(z => z.BooksInOrders)
                  .Include("BooksInOrders.OrderedProduct")
-                 //.Include("BooksInOrders.OrderedProduct.Title")
                  .Include(z => z.Owner)
                  .ToList();
 

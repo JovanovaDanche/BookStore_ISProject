@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Web\\EBookStore.Web.csproj": {}
+    "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\EBookStore.Web.csproj": {}
   },
   "projects": {
-    "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
+    "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj",
+        "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj",
         "projectName": "EBookStore.Domain",
-        "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj",
+        "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\obj\\",
+        "outputPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj": {
+    "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj",
+        "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj",
         "projectName": "EBookStore.Repository",
-        "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj",
+        "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\obj\\",
+        "outputPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
-                "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj"
+              "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
+                "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj"
               }
             }
           }
@@ -160,14 +160,14 @@
         }
       }
     },
-    "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj": {
+    "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj",
+        "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj",
         "projectName": "EBookStore.Service",
-        "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj",
+        "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Service\\obj\\",
+        "outputPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -184,11 +184,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
-                "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj"
+              "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
+                "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj"
               },
-              "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj": {
-                "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj"
+              "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj": {
+                "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj"
               }
             }
           }
@@ -241,14 +241,14 @@
         }
       }
     },
-    "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Web\\EBookStore.Web.csproj": {
+    "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\EBookStore.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Web\\EBookStore.Web.csproj",
+        "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\EBookStore.Web.csproj",
         "projectName": "EBookStore.Web",
-        "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Web\\EBookStore.Web.csproj",
+        "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\EBookStore.Web.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Web\\obj\\",
+        "outputPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -265,14 +265,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
-                "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj"
+              "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
+                "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj"
               },
-              "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj": {
-                "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj"
+              "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj": {
+                "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj"
               },
-              "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj": {
-                "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj"
+              "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj": {
+                "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj"
               }
             }
           }

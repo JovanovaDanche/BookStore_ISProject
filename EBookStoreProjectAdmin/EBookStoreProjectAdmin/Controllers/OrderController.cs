@@ -15,7 +15,7 @@ namespace EBookStoreProjectAdmin.Controllers
         public IActionResult Index()
         {
             HttpClient client = new HttpClient();
-            string URL = "http://localhost:7052/api/Admin/GetAllOrders";
+            string URL = "https://localhost:7052/api/Admin/GetAllOrders";
             HttpResponseMessage response = client.GetAsync(URL).Result;
 
             var data = response.Content.ReadAsAsync<List<Order>>().Result;
@@ -24,7 +24,7 @@ namespace EBookStoreProjectAdmin.Controllers
         public IActionResult Details(Guid Id)
         {
             HttpClient client = new HttpClient();
-            string URL = "http://localhost:7052/api/Admin/GetDetailsForOrder";
+            string URL = "https://localhost:7052/api/Admin/GetDetailsForOrder";
             var model = new
             {
                 Id = Id

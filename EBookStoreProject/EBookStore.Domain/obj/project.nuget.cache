@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o2yTB/PTOLLqjk2f8ACxluOeiJJ676cLAm7VgkLAbxJpp8F4XlCGPEO6Ee399bChQ7zSVdbNfRGAXGA4HkaRMg==",
+  "dgSpecHash": "U6WcOhZNaupW0nSN+V603QkkYdb8IPT3jfr+jQIeMi0QAhuTzX05iXToSWxvQEuDiBMUmJclXV2fGtms1pCkSg==",
   "success": true,
-  "projectFilePath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj",
+  "projectFilePath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mailkit\\4.8.0\\mailkit.4.8.0.nupkg.sha512",

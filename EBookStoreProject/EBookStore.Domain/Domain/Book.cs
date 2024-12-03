@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace EBookStore.Domain.Domain
 {
     public class Book : BaseEntity
@@ -27,6 +28,7 @@ namespace EBookStore.Domain.Domain
         public Guid AuthorId { get; set; }
         public Author? Author { get; set; }
         public virtual ICollection<BookInShoppingCart>? ProductInShoppingCarts { get; set; }
+
         public virtual IEnumerable<BookInOrder>? ProductsInOrder { get; set; }
     }
 }

@@ -11,3 +11,16 @@ D:\FINKI\6Semestar\IS\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\refin
 D:\FINKI\6Semestar\IS\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.pdb
 D:\FINKI\6Semestar\IS\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\ref\EBookStore.Domain.dll
 D:\FINKI\6Semestar\IS\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.sourcelink.json
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\bin\Debug\net8.0\EBookStore.Domain.deps.json
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\bin\Debug\net8.0\EBookStore.Domain.dll
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\bin\Debug\net8.0\EBookStore.Domain.pdb
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.csproj.AssemblyReference.cache
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.AssemblyInfoInputs.cache
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.AssemblyInfo.cs
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.csproj.CoreCompileInputs.cache
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.sourcelink.json
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.dll
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\refint\EBookStore.Domain.dll
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\EBookStore.Domain.pdb
+D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProject\EBookStore.Domain\obj\Debug\net8.0\ref\EBookStore.Domain.dll

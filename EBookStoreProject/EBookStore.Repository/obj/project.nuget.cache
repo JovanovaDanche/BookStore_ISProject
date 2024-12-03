@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fDGHGBJzNUiI33hxyJUYyS9ieOfKDWk+obTi7N9dr2uK2uZiBU1AWpCsyI5H/OAFd5+7K0t/xyjn/h3x6aRy1A==",
+  "dgSpecHash": "h8o0mEapVkVzqEq5Ftzvy6dUH4aUd0+4su8dPK6tJRxBVvdGSu9rTCFdwoJzd1CbCF5HOx76yvBWR/zM2mK/Nw==",
   "success": true,
-  "projectFilePath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj",
+  "projectFilePath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

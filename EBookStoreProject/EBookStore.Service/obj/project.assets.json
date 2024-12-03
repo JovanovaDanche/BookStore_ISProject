@@ -3162,11 +3162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj",
+      "projectUniqueName": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj",
       "projectName": "EBookStore.Service",
-      "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj",
+      "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\EBookStore.Service.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Service\\obj\\",
+      "outputPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3183,11 +3183,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
-              "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj"
+            "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj": {
+              "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\EBookStore.Domain.csproj"
             },
-            "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj": {
-              "projectPath": "D:\\FINKI\\6Semestar\\IS\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj"
+            "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj": {
+              "projectPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\EBookStore.Repository.csproj"
             }
           }
         }

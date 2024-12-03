@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EBookStoreProjectAdmin
 build_property.RootNamespace = EBookStoreProjectAdmin
-build_property.ProjectDir = D:\FINKI\6Semestar\IS\EBookStoreProjectAdmin\EBookStoreProjectAdmin\
+build_property.ProjectDir = D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProjectAdmin\EBookStoreProjectAdmin\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\FINKI\6Semestar\IS\EBookStoreProjectAdmin\EBookStoreProjectAdmin
+build_property.MSBuildProjectDirectory = D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProjectAdmin\EBookStoreProjectAdmin
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/FINKI/6Semestar/IS/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Home/Index.cshtml]
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6Semestar/IS/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Home/Privacy.cshtml]
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6Semestar/IS/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Order/Index.cshtml]
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6Semestar/IS/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Shared/Error.cshtml]
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6Semestar/IS/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6Semestar/IS/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/_ViewImports.cshtml]
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6Semestar/IS/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/_ViewStart.cshtml]
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FINKI/6Semestar/IS/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Shared/_Layout.cshtml]
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1lbz1uow3z
