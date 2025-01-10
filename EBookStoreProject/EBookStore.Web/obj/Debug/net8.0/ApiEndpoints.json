@@ -44,5 +44,57 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "EBookStore.Web.Controllers.API.AdminController",
+    "Method": "GetDetailsForOrder",
+    "RelativePath": "api/Admin/GetDetailsForOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EBookStore.Domain.Domain.BaseEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EBookStore.Domain.Domain.Order",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EBookStore.Web.Controllers.API.AdminController",
+    "Method": "ImportAllAuthors",
+    "RelativePath": "api/Admin/ImportAllAuthors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.List\u00601[[EBookStore.Domain.DTO.AuthorDTO, EBookStore.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

@@ -67,10 +67,11 @@
                 @Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Publisher.Address)
+                @Html.DisplayFor(modelItem => item.Publisher.Name)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Author.AuthorImage)
+                @Html.DisplayFor(modelItem => item.Author.Name)
+                    @Html.DisplayFor(modelItem => item.Author.Surname)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

@@ -18,12 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\FINKI\6Semestar\IS\BookStore_ISProject\EBookStoreProjectAdmin\EBookStoreProjectAdmin
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/FINKI/6Semestar/IS/BookStore_ISProject/EBookStoreProjectAdmin/EBookStoreProjectAdmin/Views/Order/Index.cshtml]

@@ -58,8 +58,13 @@ namespace EBookStore.Web.Controllers
         // GET: Books/Create
         public IActionResult Create()
         {
-            ViewData["AuthorId"] = new SelectList(_context.Authors, "Id", "AuthorImage");
-            ViewData["PublisherId"] = new SelectList(_context.Publishers, "Id", "Address");
+            var authors = _context.Authors.Select(a => new
+            {
+                a.Id,
+                FullName = $"{a.Name} {a.Surname}"
+            }).ToList();
+            ViewData["AuthorId"] = new SelectList(authors, "Id", "FullName");
+            ViewData["PublisherId"] = new SelectList(_context.Publishers, "Id", "Name");
             return View();
         }
 
@@ -77,8 +82,8 @@ namespace EBookStore.Web.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["AuthorId"] = new SelectList(_context.Authors, "Id", "AuthorImage", book.AuthorId);
-            ViewData["PublisherId"] = new SelectList(_context.Publishers, "Id", "Address", book.PublisherId);
+            ViewData["AuthorId"] = new SelectList(_context.Authors, "Id", "Name",  book.AuthorId);
+            ViewData["PublisherId"] = new SelectList(_context.Publishers, "Id", "Name", book.PublisherId);
             return View(book);
         }
 
@@ -95,8 +100,14 @@ namespace EBookStore.Web.Controllers
             {
                 return NotFound();
             }
-            ViewData["AuthorId"] = new SelectList(_context.Authors, "Id", "AuthorImage", book.AuthorId);
-            ViewData["PublisherId"] = new SelectList(_context.Publishers, "Id", "Address", book.PublisherId);
+            var authors = _context.Authors.Select(a => new
+            {
+                a.Id,
+                FullName = $"{a.Name} {a.Surname}"
+            }).ToList();
+            //ViewData["AuthorId"] = new SelectList(_context.Authors, "Id", "Name", book.AuthorId);
+            ViewData["AuthorId"] = new SelectList(authors, "Id", "FullName", book.AuthorId);
+            ViewData["PublisherId"] = new SelectList(_context.Publishers, "Id", "Name", book.PublisherId);
             return View(book);
         }
 
@@ -133,7 +144,7 @@ namespace EBookStore.Web.Controllers
                 return RedirectToAction(nameof(Index));
             }
             ViewData["AuthorId"] = new SelectList(_context.Authors, "Id", "AuthorImage", book.AuthorId);
-            ViewData["PublisherId"] = new SelectList(_context.Publishers, "Id", "Address", book.PublisherId);
+            ViewData["PublisherId"] = new SelectList(_context.Publishers, "Id", "Name", book.PublisherId);
             return View(book);
         }
 
@@ -153,6 +164,8 @@ namespace EBookStore.Web.Controllers
             {
                 return NotFound();
             }
+            ViewData["AuthorFullName"] = $"{book.Author.Name} {book.Author.Surname}";
+
 
             return View(book);
         }

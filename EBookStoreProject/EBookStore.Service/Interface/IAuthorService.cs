@@ -14,5 +14,6 @@ namespace EBookStore.Service.Interface
         void CreateNewAuthor(Author a);
         void UpdateExistingAuthor(Author a);
         void DeleteAuthor(Guid id);
+        Author GetAuthorByFullName(string firstName, string lastName);
     }
 }

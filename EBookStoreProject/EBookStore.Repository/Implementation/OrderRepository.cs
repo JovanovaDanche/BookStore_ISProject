@@ -33,7 +33,9 @@ namespace EBookStore.Repository.Implementation
             return entities
                 .Include(z => z.BooksInOrders)
                 .Include(z => z.Owner)
-                .Include("BooksInOrders.Book")
+                .Include("BooksInOrders.OrderedProduct")
+                .Include("BooksInOrders.OrderedProduct.Author")
+                .Include("BooksInOrders.OrderedProduct.Publisher")
                 .SingleOrDefaultAsync(z => z.Id == id.Id).Result;
         }
     }

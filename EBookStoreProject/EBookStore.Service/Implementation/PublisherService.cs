@@ -1,6 +1,7 @@
 ﻿using EBookStore.Domain.Domain;
 using EBookStore.Repository.Interface;
 using EBookStore.Service.Interface;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -44,5 +45,12 @@ namespace EBookStore.Service.Implementation
         {
             _publisherRepository.Update(p);
         }
+        public Publisher GetPublisherByName(string name)
+        {
+            Console.WriteLine($"Searching for publisher: {name}");
+            return _publisherRepository.GetAll()
+                .FirstOrDefault(p => p.Name.ToLower() == name.ToLower());
+        }
+
     }
 }

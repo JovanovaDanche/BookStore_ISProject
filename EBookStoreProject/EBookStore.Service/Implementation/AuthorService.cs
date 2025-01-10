@@ -44,5 +44,10 @@ namespace EBookStore.Service.Implementation
         {
             _authorRepository.Update(a);
         }
+        public Author GetAuthorByFullName(string firstName, string lastName)
+        {
+            return _authorRepository.GetAll()
+                .FirstOrDefault(a => a.Name.ToLower() == firstName.ToLower() && a.Surname.ToLower() == lastName.ToLower());
+        }
     }
 }

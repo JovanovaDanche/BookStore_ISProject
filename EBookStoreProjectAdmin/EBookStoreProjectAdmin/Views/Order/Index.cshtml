@@ -1,9 +1,4 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
-@model List<EBookStoreProjectAdmin.Models.Order>
+﻿@model List<EBookStoreProjectAdmin.Models.Order>
 
 <div class="container">
     <div class="row">
@@ -16,6 +11,7 @@
                 <tr>
                     <th scope="col">#</th>
                     <th scope="col">Customer name</th>
+                    <th scope="col">Customer username</th>
                     <th scope="col">Number of books</th>
                     <th></th>
                 </tr>
@@ -33,14 +29,17 @@
                     {
                         var item = Model[i];
 
+                        // Calculate the total number of books by summing the Quantity of each BookInOrder
+                        var totalBooks = item.BooksInOrders.Sum(b => b.Quantity);
+
                         <tr>
                             <th scope="row">@(i + 1)</th>
+                            <td>@item.Owner.FirstName @item.Owner.LastName</td>
                             <td>@item.Owner.UserName</td>
-                            <td>@item.BooksInOrders.Count()</td>
+                            <td>@totalBooks</td> <!-- Show total number of books -->
                             <td><a asp-action="Details" asp-route-Id="@item.Id" class="btn btn-danger">Details</a></td>
                             <td><a asp-action="CreateInvoice" asp-route-Id="@item.Id" class="btn btn-danger">Create Invoice</a></td>
                         </tr>
-
                     }
                 }
             </tbody>

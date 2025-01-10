@@ -1,0 +1,70 @@
+﻿@model EBookStoreProjectAdmin.Models.Order
+
+<div class="container">
+    <div>
+        @if (Model?.Owner != null)
+        {
+            <p>Order for @Model.Owner.UserName</p>
+        }
+        else
+        {
+            <p>Owner details not available.</p>
+        }
+    </div>
+
+    @if (Model?.BooksInOrders != null && Model.BooksInOrders.Any())
+    {
+        @for (int i = 0; i < Model.BooksInOrders.Count(); i++)
+        {
+            var bookInOrder = Model.BooksInOrders.ElementAt(i);
+
+            if (bookInOrder?.OrderedProduct == null)
+            {
+                continue;
+            }
+
+            var item = bookInOrder?.OrderedProduct;
+
+            if (i % 3 == 0)
+            {
+                @:<div class="row">
+            }
+            <div class="col-3 m-4">
+                <div class="card" style="width: 18rem; height: 35rem">
+                    <img class="card-img-top" src="@item.BookCover" alt="Card image cap" />
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text">@item.Genre</p>
+                        @if (item.Author != null)
+                        {
+                            <h6>Author: @item.Author.Name @item.Author.Surname</h6>
+                        }
+                        else
+                        {
+                            <h6>Author information not available.</h6>
+                        }
+                        <h6>Price: @item.Price</h6>
+                        @if (item.Publisher != null)
+                        {
+                            <h6>Publisher: @item.Publisher.Name</h6>
+                        }
+                        else
+                        {
+                            <h6>Publisher information not available.</h6>
+                        }
+                        <h6>Quantity: @bookInOrder.Quantity</h6>
+                    </div>
+                </div>
+            </div>
+
+            if (i % 3 == 2)
+            {
+                @:</div>
+            }
+        }
+    }
+    else
+    {
+        <p>No books found in this order.</p>
+    }
+</div>

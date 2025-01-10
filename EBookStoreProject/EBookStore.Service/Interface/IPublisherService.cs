@@ -15,5 +15,6 @@ namespace EBookStore.Service.Interface
         void CreateNewPublisher(Publisher p);
         void UpdateExistingPublisher(Publisher p);
         void DeletePublisher(Guid id);
+        Publisher GetPublisherByName(string name);
     }
 }

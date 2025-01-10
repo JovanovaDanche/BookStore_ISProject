@@ -15,5 +15,6 @@ namespace EBookStore.Service.Interface
         void CreateNewBook(Book book);
         void UpdateBook(Book book);
         void DeleteBook(Guid id);
+
     }
 }
