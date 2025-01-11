@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\",
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3750F8D6-7AA1-4A68-A60A-D575617D6701}|EBookStore.Repository\\EBookStore.Repository.csproj|d:\\finki\\6semestar\\is\\bookstore_isproject\\ebookstoreproject\\ebookstore.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3750F8D6-7AA1-4A68-A60A-D575617D6701}|EBookStore.Repository\\EBookStore.Repository.csproj|solutionrelative:ebookstore.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F30EF73-59D0-43BB-BE24-EE8395F58F1E}|EBookStore.Service\\EBookStore.Service.csproj|d:\\finki\\6semestar\\is\\bookstore_isproject\\ebookstoreproject\\ebookstore.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F30EF73-59D0-43BB-BE24-EE8395F58F1E}|EBookStore.Service\\EBookStore.Service.csproj|solutionrelative:ebookstore.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ABF5A9A-AEF9-44F7-AA21-90BBACF12072}|EBookStore.Web\\EBookStore.Web.csproj|d:\\finki\\6semestar\\is\\bookstore_isproject\\ebookstoreproject\\ebookstore.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2ABF5A9A-AEF9-44F7-AA21-90BBACF12072}|EBookStore.Web\\EBookStore.Web.csproj|c:\\users\\angel\\source\\repos\\bookstore_isproject\\ebookstoreproject\\ebookstore.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ABF5A9A-AEF9-44F7-AA21-90BBACF12072}|EBookStore.Web\\EBookStore.Web.csproj|solutionrelative:ebookstore.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5FAB68E-AB26-4605-ACDD-6E112E01A399}|EBookStore.Domain\\EBookStore.Domain.csproj|d:\\finki\\6semestar\\is\\bookstore_isproject\\ebookstoreproject\\ebookstore.domain\\domain\\bookinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3750F8D6-7AA1-4A68-A60A-D575617D6701}|EBookStore.Repository\\EBookStore.Repository.csproj|c:\\users\\angel\\source\\repos\\bookstore_isproject\\ebookstoreproject\\ebookstore.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3750F8D6-7AA1-4A68-A60A-D575617D6701}|EBookStore.Repository\\EBookStore.Repository.csproj|solutionrelative:ebookstore.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F30EF73-59D0-43BB-BE24-EE8395F58F1E}|EBookStore.Service\\EBookStore.Service.csproj|c:\\users\\angel\\source\\repos\\bookstore_isproject\\ebookstoreproject\\ebookstore.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F30EF73-59D0-43BB-BE24-EE8395F58F1E}|EBookStore.Service\\EBookStore.Service.csproj|solutionrelative:ebookstore.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FAB68E-AB26-4605-ACDD-6E112E01A399}|EBookStore.Domain\\EBookStore.Domain.csproj|c:\\users\\angel\\source\\repos\\bookstore_isproject\\ebookstoreproject\\ebookstore.domain\\domain\\bookinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5FAB68E-AB26-4605-ACDD-6E112E01A399}|EBookStore.Domain\\EBookStore.Domain.csproj|solutionrelative:ebookstore.domain\\domain\\bookinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5FAB68E-AB26-4605-ACDD-6E112E01A399}|EBookStore.Domain\\EBookStore.Domain.csproj|d:\\finki\\6semestar\\is\\bookstore_isproject\\ebookstoreproject\\ebookstore.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5FAB68E-AB26-4605-ACDD-6E112E01A399}|EBookStore.Domain\\EBookStore.Domain.csproj|c:\\users\\angel\\source\\repos\\bookstore_isproject\\ebookstoreproject\\ebookstore.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5FAB68E-AB26-4605-ACDD-6E112E01A399}|EBookStore.Domain\\EBookStore.Domain.csproj|solutionrelative:ebookstore.domain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5FAB68E-AB26-4605-ACDD-6E112E01A399}|EBookStore.Domain\\EBookStore.Domain.csproj|d:\\finki\\6semestar\\is\\bookstore_isproject\\ebookstoreproject\\ebookstore.domain\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5FAB68E-AB26-4605-ACDD-6E112E01A399}|EBookStore.Domain\\EBookStore.Domain.csproj|c:\\users\\angel\\source\\repos\\bookstore_isproject\\ebookstoreproject\\ebookstore.domain\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5FAB68E-AB26-4605-ACDD-6E112E01A399}|EBookStore.Domain\\EBookStore.Domain.csproj|solutionrelative:ebookstore.domain\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,6 +46,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -53,27 +57,18 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\Implementation\\OrderService.cs",
-              "RelativeDocumentMoniker": "EBookStore.Service\\Implementation\\OrderService.cs",
-              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\Implementation\\OrderService.cs",
-              "RelativeToolTip": "EBookStore.Service\\Implementation\\OrderService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T22:14:58.958Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\Controllers\\API\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\Controllers\\API\\AdminController.cs",
               "RelativeDocumentMoniker": "EBookStore.Web\\Controllers\\API\\AdminController.cs",
-              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\Controllers\\API\\AdminController.cs",
               "RelativeToolTip": "EBookStore.Web\\Controllers\\API\\AdminController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAwwB4AAAA1AAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB4AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T22:14:45.539Z",
               "EditorCaption": ""
@@ -82,53 +77,61 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\Order.cs",
               "RelativeDocumentMoniker": "EBookStore.Domain\\Domain\\Order.cs",
-              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\Order.cs",
               "RelativeToolTip": "EBookStore.Domain\\Domain\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T22:12:59.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T22:12:59.518Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\Book.cs",
               "RelativeDocumentMoniker": "EBookStore.Domain\\Domain\\Book.cs",
-              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\Book.cs",
               "RelativeToolTip": "EBookStore.Domain\\Domain\\Book.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T21:57:34.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T21:57:34.33Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BookInOrder.cs",
-              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\BookInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\BookInOrder.cs",
               "RelativeDocumentMoniker": "EBookStore.Domain\\Domain\\BookInOrder.cs",
-              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\BookInOrder.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Domain\\Domain\\BookInOrder.cs",
               "RelativeToolTip": "EBookStore.Domain\\Domain\\BookInOrder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T21:57:27.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T21:57:27.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\Implementation\\OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\Implementation\\OrderRepository.cs",
               "RelativeDocumentMoniker": "EBookStore.Repository\\Implementation\\OrderRepository.cs",
-              "ToolTip": "D:\\FINKI\\6Semestar\\IS\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\Implementation\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Repository\\Implementation\\OrderRepository.cs",
               "RelativeToolTip": "EBookStore.Repository\\Implementation\\OrderRepository.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAuwCcAAAAJAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T19:01:14.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T19:01:14.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\Implementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "EBookStore.Service\\Implementation\\OrderService.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Service\\Implementation\\OrderService.cs",
+              "RelativeToolTip": "EBookStore.Service\\Implementation\\OrderService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:14:58.958Z"
             }
           ]
         },
