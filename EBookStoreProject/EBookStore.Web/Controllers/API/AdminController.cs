@@ -36,33 +36,8 @@ namespace EBookStore.Web.Controllers.API
         {
             return this._orderService.GetDetailsForOrder(id);
         }
-        /*[HttpPost("[action]")]
-        public bool ImportAllBooks(List<BookDTO> model)
-        {
-            bool status = true;
 
-            foreach (var item in model)
-            {
-
-                var book = new Book
-                {
-                    Title = item.Title,
-                    BookCover = item.BookCover,
-                    Description = item.Description,
-                    Rating = item.Rating,
-                    Genre = item.Genre,
-                    QuantityAvaiable= item.QuantityAvaiable,
-                    Price=item.Price,
-                    Author=item.Author,
-                    Publisher=item.Publisher
-                };
-
-                _bookService.CreateNewBook(book);
-
-            }
-            return status;
-        }*/
-        
+       
 
         [HttpPost("[action]")]
         public bool ImportAllAuthors(List<AuthorDTO> model)

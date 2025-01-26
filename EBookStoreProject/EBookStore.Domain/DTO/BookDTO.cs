@@ -21,8 +21,6 @@ namespace EBookStore.Domain.DTO
        
         public Int32 QuantityAvaiable { get; set; }
         public double Price { get; set; }
-        //public Publisher? Publisher { get; set; }
-        //public Author? Author { get; set; }
         public AuthorDTO Author { get; set; }
         public PublisherDTO Publisher { get; set; }
     }
