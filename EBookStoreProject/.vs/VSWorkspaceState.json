@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EBookStore.Web",
+    "\\EBookStore.Web\\Controllers",
+    "\\EBookStore.Web\\Controllers\\API",
+    "\\EBookStore.Web\\Views",
+    "\\EBookStore.Web\\Views\\Books"
+  ],
+  "SelectedNode": "\\EBookStore.Web\\Controllers\\API\\AdminController.cs",
+  "PreviewInSolutionExplorer": false
+}

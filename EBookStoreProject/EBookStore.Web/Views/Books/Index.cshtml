@@ -73,12 +73,25 @@
         filter: blur(8px); /* Apply blur effect */
         z-index: -1; /* Ensures the overlay is behind content */
     }
-
     footer {
-        background-color: transparent; /* Ensure the footer doesn't inherit the background */
-        margin-top: 50px;
-        padding-top: 100px;
-    }
+    background-color: transparent;
+    margin-top: 50px;
+    padding: 20px 0;
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+html, body {
+    height: auto;
+    min-height: 100vh; 
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1; 
+}
+
 </style>
 
 <!-- Add an empty div with the background overlay class for blur effect -->
