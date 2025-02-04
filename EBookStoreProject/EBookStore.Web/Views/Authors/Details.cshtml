@@ -79,10 +79,30 @@
         z-index: -1; /* Ensures the overlay is behind content */
     }
 
+    /* footer {
+            background-color: transparent;
+            margin-top: 50px;
+            padding-top: 100px;
+        }
+        */
     footer {
-        background-color: transparent; /* Ensure the footer doesn't inherit the background */
+        background-color: transparent;
         margin-top: 50px;
-        padding-top: 100px;
+        padding: 20px 0;
+        position: relative;
+        width: 100%;
+        text-align: center;
+    }
+
+    html, body {
+        height: auto;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container {
+        flex: 1;
     }
 </style>
 
