@@ -94,6 +94,7 @@
     html, body {
         height: 100%; /* Ensure both html and body elements take full height */
         margin: 0; /* Remove default margin */
+        font-family: 'Lora', serif;
     }
 
     body {
@@ -116,10 +117,25 @@
     }
 
     footer {
-        background-color: transparent; /* Ensure the footer doesn't inherit the background */
-        margin-top: 50px;
-        padding-top: 100px;
+        background-color: transparent;
+        margin-top: 30px;
+        padding: 20px 0;
+        position: relative;
+        width: 100%;
+        text-align: center;
     }
+
+    html, body {
+        height: auto;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container {
+        flex: 1;
+    }
+
 </style>
 
 <!-- Add an empty div with the background overlay class for blur effect -->
