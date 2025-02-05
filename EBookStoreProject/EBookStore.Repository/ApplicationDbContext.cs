@@ -13,7 +13,7 @@ namespace EBookStore.Repository
             : base(options)
         {
         }
-
+        
         public virtual DbSet<Author> Authors { get; set; }
         public virtual DbSet<ShoppingCart> ShoppingCarts { get; set; }
         public virtual DbSet<Order> Orders { get; set; }

@@ -1,0 +1,107 @@
+﻿@* Insert this in your Razor view *@
+@{
+    ViewData["Title"] = "Products";
+}
+
+@model List<EBookStore.Domain.Integration.Products>
+
+
+<div class="text-center my-5">
+    <h3 class="display-4 font-weight-bold text-primary">
+        What goes better with a book rather than a cup of tea with premium quality honey?
+    </h3>
+    <p class="lead text-primary">
+        We present you our partners who we guarantee have the best honey!
+    </p>
+</div>
+
+
+<div class="text-center my-4">
+    <h4 class="font-weight-bold text-primary">
+        Total Orders they had: <span class="text-primary">@ViewData["TotalOrders"]</span>
+    </h4>
+</div>
+
+
+<div class="container-fluid fullscreen-honey pt-4">
+    @for (int i = 0; i < Model.Count(); i++)
+    {
+        var item = Model[i];
+
+        if (i % 3 == 0)
+        {
+            @: <div class="row mt-3">
+        }
+
+        <div class="col-md-3 d-flex justify-content-center">
+            <div class="card">
+                <img class="card-img-top" src="@item.ImageUrl" alt="Honey Image" style="height: 15rem">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Description</p>
+                </div>
+            </div>
+        </div>
+
+        @if (i % 3 == 2 || i == Model.Count - 1)
+        {
+            @: </div>
+        }
+    }
+</div>
+
+
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+
+    body {
+        position: relative;
+        overflow-x: hidden;
+    }
+
+    .background-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('@Url.Content("~/images/dried-flowers-books.jpg")');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        filter: blur(8px);
+        z-index: -1;
+    }
+
+    footer {
+        background-color: transparent;
+        margin-top: 50px;
+        padding: 20px 0;
+        position: relative;
+        width: 100%;
+        text-align: center;
+    }
+
+    html, body {
+        height: auto;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container {
+        flex: 1;
+    }
+
+    /* Removing unnecessary classes and adding custom ones */
+    .text-light {
+        color: #007bff;
+    }
+
+</style>
+
+<!-- Add an empty div with the background overlay class for blur effect -->
+<div class="background-overlay"></div>

@@ -17,6 +17,11 @@ builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("Email
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
+
+var connectionString2 = builder.Configuration.GetConnectionString("HoneyStoreConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+builder.Services.AddDbContext<HoneyStoreDbContext>(options =>
+    options.UseSqlServer(connectionString2));
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<EBookStoreAppUser>(options => options.SignIn.RequireConfirmedAccount = true)
@@ -25,6 +30,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped(typeof(IUserRepository), typeof(UserRepository));
 builder.Services.AddScoped(typeof(IOrderRepository), typeof(OrderRepository));
+builder.Services.AddScoped(typeof(IHoneyRepository), typeof(HoneyRepository));
 
 builder.Services.AddTransient<IEmailService, EmailService>();
 builder.Services.AddTransient<IAuthorService, AuthorService>();
@@ -32,6 +38,7 @@ builder.Services.AddTransient<IBookService, BookService>();
 builder.Services.AddTransient<IPublisherService, PublisherService>();
 builder.Services.AddTransient<IShoppingCartService, ShoppingCartService>();
 builder.Services.AddTransient<IOrderService, OrderService>();
+builder.Services.AddTransient<IHoneyService, HoneyService>();
 
 builder.Services.Configure<StripeSettings>(builder.Configuration.GetSection("Stripe"));
 //builder.Services.AddControllers().AddJsonOptions(x =>
