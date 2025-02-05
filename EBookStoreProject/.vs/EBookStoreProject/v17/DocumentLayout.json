@@ -122,8 +122,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Books\\Create.cshtml",
               "ViewState": "AQIAAFwAAAAAAAAAAAAuwHoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:04:19.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:04:19.29Z"
             },
             {
               "$type": "Document",
@@ -135,8 +134,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Books\\AddProductToCart.cshtml",
               "ViewState": "AQIAADUAAAAAAAAAAAAuwFMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:04:25.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:04:25.199Z"
             },
             {
               "$type": "Document",
@@ -148,8 +146,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAABQAAAAAAAAAAAAuwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:04:33.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:04:33.51Z"
             },
             {
               "$type": "Document",
@@ -159,7 +156,7 @@
               "RelativeDocumentMoniker": "EBookStore.Web\\Views\\Publishers\\Index.cshtml",
               "ToolTip": "C:\\Users\\User5452\\Documents\\BookStore_ISProject\\EBookStoreProject\\EBookStore.Web\\Views\\Publishers\\Index.cshtml",
               "RelativeToolTip": "EBookStore.Web\\Views\\Publishers\\Index.cshtml",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAiwFMAAAAFAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwFYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-03T00:04:41.184Z",
               "EditorCaption": ""
@@ -174,8 +171,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Books\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T18:01:24.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T18:01:24.994Z"
             },
             {
               "$type": "Document",
@@ -187,8 +183,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Books\\Edit.cshtml",
               "ViewState": "AQIAAF8AAAAAAAAAAAAuwH0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:04:02.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:04:02.286Z"
             },
             {
               "$type": "Document",
@@ -200,8 +195,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Books\\Index.cshtml",
               "ViewState": "AQIAAEMAAAAAAAAAAAAuwGEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:03:50.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:03:50.203Z"
             },
             {
               "$type": "Document",
@@ -213,8 +207,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Authors\\Create.cshtml",
               "ViewState": "AQIAAEoAAAAAAAAAAAAuwGgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:03:36.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:03:36.197Z"
             },
             {
               "$type": "Document",
@@ -226,8 +219,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Books\\Details.cshtml",
               "ViewState": "AQIAAG8AAAAAAAAAAAAuwI0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:04:09.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:04:09.571Z"
             },
             {
               "$type": "Document",
@@ -239,8 +231,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Authors\\Details.cshtml",
               "ViewState": "AQIAAE8AAAAAAAAAAAAuwG0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:03:28.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:03:28.992Z"
             },
             {
               "$type": "Document",
@@ -252,8 +243,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Authors\\Edit.cshtml",
               "ViewState": "AQIAAEoAAAAAAAAAAAAuwGgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:03:22.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:03:22.314Z"
             },
             {
               "$type": "Document",
@@ -265,8 +255,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\Authors\\Index.cshtml",
               "ViewState": "AQIAAEMAAAAAAAAAAAAuwGEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:03:12.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:03:12.507Z"
             },
             {
               "$type": "Document",
@@ -278,8 +267,7 @@
               "RelativeToolTip": "EBookStore.Web\\Views\\ShoppingCarts\\Index.cshtml",
               "ViewState": "AQIAAG8AAAAAAAAAAAAiwIQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T00:05:21.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:05:21.226Z"
             },
             {
               "$type": "Document",
