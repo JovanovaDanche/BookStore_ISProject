@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EBookStore.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73dc4da605d5419de6f07c493c1e7c881d4bb0e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bf793894edf63e6599d674ffa49d03734e9d0e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EBookStore.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EBookStore.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
